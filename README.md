@@ -235,7 +235,7 @@ LLMs can extract patterns but may miss domain nuances. Human review is essential
 
 ---
 
-## 📚 References
+##  References
 
 - Sterman, J. (2000). *Business Dynamics: Systems Thinking and Modeling for a Complex World*
 - Meadows, D. (2008). *Thinking in Systems: A Primer*
@@ -243,7 +243,7 @@ LLMs can extract patterns but may miss domain nuances. Human review is essential
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Grace Esther** - AI Engineer, AIvancity Paris-Cachan
 
