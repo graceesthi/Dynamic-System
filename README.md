@@ -2,7 +2,7 @@
 
 **A repeatable, AI-augmented system for building system dynamics models**
 
-Built for the AIvancity Industrial AI Course - Final Project
+Built for the AIvancity Industrial AI Course - Final Project (https://industrialaigraceketsia.netlify.app/)
 
 ---
 
