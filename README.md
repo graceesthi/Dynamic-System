@@ -1,4 +1,4 @@
-# 🏭 System Dynamics Model Factory
+#  System Dynamics Model Factory
 
 **A repeatable, AI-augmented system for building system dynamics models**
 
@@ -6,7 +6,7 @@ Built for the AIvancity Industrial AI Course - Final Project
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates a **"model factory"** approach to system dynamics - not just one model, but a systematic, repeatable process for generating models from unstructured inputs.
 
@@ -19,7 +19,7 @@ This project demonstrates a **"model factory"** approach to system dynamics - no
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -44,7 +44,7 @@ This project demonstrates a **"model factory"** approach to system dynamics - no
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -69,7 +69,7 @@ Without the API key, the system runs in demo mode with pre-built models.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 model_factory/
@@ -99,7 +99,7 @@ model_factory/
 
 ---
 
-## 🔍 Core Components
+##  Core Components
 
 ### 1. Data Models (`models.py`)
 
@@ -153,7 +153,7 @@ Four key extraction points:
 
 ---
 
-## 📊 Pre-Built Models
+##  Pre-Built Models
 
 ### AeroDyn Systems - Lethal AI Strategy
 
@@ -187,7 +187,7 @@ Four key extraction points:
 
 ---
 
-## 🎓 Grading Alignment
+##  Grading Alignment
 
 | Criterion | Points | Implementation |
 |-----------|--------|----------------|
@@ -198,7 +198,7 @@ Four key extraction points:
 
 ---
 
-## 🤔 Key Trade-offs Documented
+##  Key Trade-offs Documented
 
 ### 1. Automation vs. Expert Judgment
 LLMs can extract patterns but may miss domain nuances. Human review is essential for:
@@ -223,7 +223,7 @@ LLMs can extract patterns but may miss domain nuances. Human review is essential
 
 ---
 
-## 🎬 Demo Script
+##  Demo Script
 
 1. **"Here's a report about AI ethics in defense"** → Show document upload
 2. **"Watch the system extract variables"** → LLM extraction demo
@@ -239,7 +239,7 @@ LLMs can extract patterns but may miss domain nuances. Human review is essential
 
 - Sterman, J. (2000). *Business Dynamics: Systems Thinking and Modeling for a Complex World*
 - Meadows, D. (2008). *Thinking in Systems: A Primer*
-- Course materials: Mehdi MOUNSIF, AIvancity, 2026
+
 
 ---
 
@@ -247,4 +247,4 @@ LLMs can extract patterns but may miss domain nuances. Human review is essential
 
 **Grace Esther** - AI Engineer, AIvancity Paris-Cachan
 
-*Built with Claude AI assistance*
+
